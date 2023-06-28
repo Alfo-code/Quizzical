@@ -7,9 +7,10 @@ Solo projects are meant to challenge the skills you've learnt so far through the
 - HTML5
 - CSS3
 - [React](https://reactjs.org/) - JS library
+- [React Router](https://reactrouter.com/en/main) - JS framework
 - npm - Vite
-- Mobile-first workflow
 - Figma design files from Scrimba
+- The questions were pulled from the [Open Trivia Database API](https://opentdb.com/)
 
 ## Live URL
 
